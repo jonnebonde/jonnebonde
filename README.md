@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Jonne Martin Krosby</h1>
+<h1 align="center">Hi there 👋, I'm Jonne Martin Krosby</h1>
 <h3 align="center">I`m a front-end student at Noroff</h3>
 
 - 📫 How to reach me **jonnebonde@gmail.com**
