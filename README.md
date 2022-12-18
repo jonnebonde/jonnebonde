@@ -1,5 +1,6 @@
 <h1 align="center">Hello there , I'm Jonne</h1>
 <h2 align="center">I`m a front-end student at Noroff</h3>
+<h2 align="center">Check out my portfolio site <a href="https://jonnebonde.github.io/#home">https://jonnebonde.github.io/</a>
 <h3 align=center> How to contact me </h3>
 <div align='center'>
  
