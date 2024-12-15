@@ -1,7 +1,7 @@
 <h1 align="center">Hello there , I'm Jonne</h1>
-<h2 align="center">I`m a front-end student at Noroff</h3>
+<h2 align="center">Im a newly deployed junior developer</h3>
 <h2 align="center">Check out my portfolio site <a href="https://jonnebonde.github.io/#home">https://jonnebonde.github.io/</a>
-<h3 align=center> How to contact me </h3>
+<h3 align=center> How to reach out to me</h3>
 <div align='center'>
  
 [![Twitter Badge](https://img.shields.io/badge/-JonneKrosby-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JonneKrosby)](https://twitter.com/JonneKrosby)
@@ -11,7 +11,7 @@
   </div>
 
 
-<h4 align="center">Languages and Tools im using:</h4>
+<h4 align="center">Languages and Tools i have used in my studies:</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,html,css,sass,js,react,vite,tailwind,bootstrap,wordpress,netlify," />
